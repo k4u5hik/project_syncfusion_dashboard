@@ -8,3 +8,5 @@ This is a code repository for the corresponding video tutorial.
 New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
 
 [Youtube Video Tutorial](https://www.youtube.com/watch?v=jx5hdo50a2M)
+
+- Completed 4th June 2022
